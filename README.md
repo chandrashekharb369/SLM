@@ -45,8 +45,7 @@ Instead of chasing massive general-purpose models, SLMs prove that **smaller, ex
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/SLM_Project.git
-cd SLM_Project
+https://github.com/chandrashekharb369/SLM.git
 
 # Install requirements
 pip install -r requirements.txt
